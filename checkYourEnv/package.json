@@ -4,7 +4,7 @@
   "description": "to test that your openai env is ok",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
     "start": "node --env-file=../.env index.js"
   },
   "type": "module",
