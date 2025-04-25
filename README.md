@@ -29,3 +29,8 @@ You must connect to [OpenAI AOI platform](https://platform.openai.com/login). Th
 
 + [OpenAI models pricing](https://openai.com/api/pricing/)
 
+
+## Embeddings
+
+    + OpenAI [Vector embeddings](https://platform.openai.com/docs/guides/embeddings/embedding-models)
+    + [huggingface Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
