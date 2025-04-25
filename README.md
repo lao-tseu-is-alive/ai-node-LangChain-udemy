@@ -32,5 +32,5 @@ You must connect to [OpenAI AOI platform](https://platform.openai.com/login). Th
 
 ## Embeddings
 
-    + OpenAI [Vector embeddings](https://platform.openai.com/docs/guides/embeddings/embedding-models)
-    + [huggingface Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
++ OpenAI [Vector embeddings](https://platform.openai.com/docs/guides/embeddings/embedding-models)
++ [huggingface Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
