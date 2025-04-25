@@ -22,3 +22,10 @@ Or you can use the online version at : [vscode.dev](https://vscode.dev/)
 
 you can edit your own github projet directly like this [https://vscode.dev/github/lao-tseu-is-alive/ai-node-LangChain-udemy](https://vscode.dev/github/lao-tseu-is-alive/ai-node-LangChain-udemy)
 
+## OpenAI API
+You must connect to [OpenAI AOI platform](https://platform.openai.com/login). Then generate an API secret KEy and store in in .env file in the root of this project. This file should contain something like this
+
+        OPENAI_API_KEY=whatever-the-content-of-the-secret-key-generated-for-you
+
++ [OpenAI models pricing](https://openai.com/api/pricing/)
+
