@@ -1,0 +1,27 @@
+{
+  "name": "checkyourenv",
+  "version": "1.0.0",
+  "description": "to test that your openai env is ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+    "start": "node --env-file=../.env index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lao-tseu-is-alive/ai-node-LangChain-udemy.git"
+  },
+  "keywords": [
+    "openai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lao-tseu-is-alive/ai-node-LangChain-udemy/issues"
+  },
+  "homepage": "https://github.com/lao-tseu-is-alive/ai-node-LangChain-udemy#readme",
+  "dependencies": {
+    "openai": "^4.96.0"
+  }
+}
